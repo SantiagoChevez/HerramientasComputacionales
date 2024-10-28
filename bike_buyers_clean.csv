@@ -36,6 +36,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 26270,single,female,20000.0,2.0,partial high school,clerical,yes,2.0,1-2 miles,north america,49.0,no
 17337,single,male,40000.0,0.0,high school,skilled manual,yes,1.0,5-10 miles,north america,31.0,no
 17703,married,female,10000.0,1.0,graduate degree,manual,yes,0.0,0-1 miles,europe,40.0,no
+11434,married,male,170000.0,5.0,partial college,professional,yes,1.0,0-1 miles,europe,55.0,no
 20598,married,male,100000.0,3.0,partial high school,professional,yes,0.0,10+ miles,europe,59.0,yes
 18594,single,female,80000.0,3.0,bachelors,skilled manual,yes,3.0,10+ miles,north america,40.0,yes
 13826,single,female,30000.0,0.0,partial college,clerical,no,1.0,0-1 miles,europe,28.0,no
@@ -68,7 +69,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 23801,married,female,20000.0,2.0,partial high school,clerical,yes,2.0,0-1 miles,north america,49.0,no
 25329,single,female,40000.0,3.0,partial college,clerical,no,2.0,0-1 miles,north america,32.0,no
 27878,single,male,20000.0,0.0,partial college,manual,no,0.0,0-1 miles,pacific,28.0,yes
-21006,single,female,56254.0,1.0,partial college,manual,no,0.0,0-1 miles,europe,46.0,yes
+21006,single,female,60000.0,1.0,partial college,manual,no,0.0,0-1 miles,europe,46.0,yes
 29133,single,female,60000.0,4.0,bachelors,skilled manual,no,2.0,0-1 miles,north america,42.0,no
 28858,single,male,80000.0,3.0,bachelors,skilled manual,yes,0.0,2-5 miles,north america,40.0,no
 18267,married,male,60000.0,3.0,bachelors,professional,yes,2.0,5-10 miles,pacific,43.0,no
@@ -123,7 +124,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 12871,single,female,30000.0,0.0,partial college,clerical,no,1.0,2-5 miles,europe,29.0,no
 25665,single,female,20000.0,0.0,high school,manual,no,1.0,1-2 miles,europe,28.0,no
 12212,married,female,10000.0,0.0,graduate degree,manual,yes,0.0,0-1 miles,europe,37.0,yes
-19441,married,male,40000.0,0.0,graduate degree,clerical,yes,0.0,0-1 miles,europe,44.0,yes
+19441,married,male,40000.0,0.0,graduate degree,clerical,yes,0.0,0-1 miles,europe,43.0,yes
 15628,married,female,40000.0,1.0,bachelors,skilled manual,yes,1.0,0-1 miles,europe,89.0,no
 25970,single,female,60000.0,4.0,bachelors,skilled manual,no,2.0,0-1 miles,north america,41.0,yes
 15529,married,male,60000.0,4.0,bachelors,professional,yes,2.0,2-5 miles,north america,43.0,yes
@@ -166,7 +167,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 26849,married,male,10000.0,3.0,partial high school,manual,yes,2.0,0-1 miles,europe,43.0,no
 29094,married,male,30000.0,3.0,high school,skilled manual,yes,2.0,5-10 miles,pacific,54.0,yes
 25954,married,male,60000.0,0.0,partial college,skilled manual,no,2.0,1-2 miles,north america,31.0,no
-11699,single,male,60000.0,2.0,bachelors,skilled manual,no,2.0,0-1 miles,north america,44.0,no
+11699,single,male,60000.0,2.0,bachelors,skilled manual,no,2.0,0-1 miles,north america,43.0,no
 13122,married,female,80000.0,0.0,bachelors,professional,yes,1.0,1-2 miles,pacific,41.0,yes
 19066,married,male,130000.0,4.0,partial college,professional,no,3.0,10+ miles,europe,54.0,no
 29191,single,female,130000.0,1.0,graduate degree,management,no,1.0,0-1 miles,pacific,36.0,yes
@@ -243,7 +244,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 28657,single,male,60000.0,2.0,bachelors,skilled manual,yes,0.0,2-5 miles,north america,36.0,yes
 19784,married,female,80000.0,2.0,high school,skilled manual,yes,2.0,5-10 miles,pacific,50.0,yes
 28379,married,male,30000.0,1.0,bachelors,skilled manual,yes,2.0,0-1 miles,europe,40.0,no
-17926,married,female,56254.0,0.0,bachelors,clerical,no,0.0,0-1 miles,pacific,28.0,yes
+17926,married,female,60000.0,0.0,bachelors,clerical,no,0.0,0-1 miles,pacific,28.0,yes
 23586,married,female,80000.0,0.0,bachelors,management,yes,1.0,1-2 miles,north america,34.0,yes
 20877,single,male,30000.0,1.0,bachelors,clerical,yes,0.0,1-2 miles,europe,37.0,yes
 13934,married,male,40000.0,4.0,high school,skilled manual,yes,2.0,2-5 miles,north america,46.0,no
@@ -269,7 +270,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 29106,single,male,40000.0,0.0,high school,skilled manual,no,2.0,1-2 miles,north america,31.0,yes
 29255,single,male,80000.0,3.0,partial college,professional,no,1.0,1-2 miles,north america,51.0,yes
 26852,married,female,20000.0,3.0,high school,manual,yes,2.0,0-1 miles,europe,43.0,no
-11061,married,male,56254.0,2.0,partial college,skilled manual,yes,2.0,5-10 miles,pacific,52.0,yes
+11061,married,male,60000.0,2.0,partial college,skilled manual,yes,2.0,5-10 miles,pacific,52.0,yes
 24324,single,female,60000.0,4.0,bachelors,skilled manual,yes,2.0,2-5 miles,north america,41.0,yes
 16549,single,female,30000.0,3.0,bachelors,clerical,yes,0.0,0-1 miles,europe,47.0,yes
 11641,married,male,50000.0,1.0,bachelors,skilled manual,yes,0.0,0-1 miles,north america,36.0,no
@@ -283,7 +284,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 22381,married,male,10000.0,1.0,graduate degree,manual,yes,0.0,0-1 miles,europe,44.0,no
 27090,married,female,60000.0,1.0,graduate degree,professional,yes,0.0,2-5 miles,north america,37.0,yes
 13873,married,male,70000.0,3.0,graduate degree,professional,yes,0.0,0-1 miles,north america,35.0,yes
-24357,married,male,56254.0,3.0,bachelors,professional,yes,1.0,2-5 miles,north america,48.0,yes
+24357,married,male,60000.0,3.0,bachelors,professional,yes,1.0,2-5 miles,north america,48.0,yes
 15265,single,male,40000.0,2.0,bachelors,management,yes,2.0,5-10 miles,pacific,66.0,yes
 11451,single,male,70000.0,0.0,bachelors,professional,no,4.0,10+ miles,pacific,31.0,yes
 27388,married,male,60000.0,3.0,bachelors,management,no,2.0,1-2 miles,north america,66.0,no
@@ -313,7 +314,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 13233,married,male,60000.0,2.0,partial college,professional,yes,1.0,10+ miles,north america,57.0,yes
 22175,married,female,30000.0,3.0,high school,skilled manual,yes,2.0,5-10 miles,pacific,53.0,yes
 12205,single,female,130000.0,2.0,bachelors,management,no,4.0,0-1 miles,north america,67.0,no
-18580,married,female,60000.0,2.0,graduate degree,professional,yes,0.0,2-5 miles,north america,44.0,yes
+18580,married,female,60000.0,2.0,graduate degree,professional,yes,0.0,2-5 miles,north america,43.0,yes
 27941,married,female,80000.0,4.0,partial college,professional,yes,2.0,2-5 miles,europe,53.0,no
 20401,married,female,50000.0,4.0,bachelors,management,yes,2.0,1-2 miles,north america,64.0,yes
 28997,single,male,40000.0,2.0,high school,professional,no,1.0,2-5 miles,north america,58.0,yes
@@ -330,10 +331,12 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 19291,single,female,10000.0,2.0,high school,manual,yes,0.0,0-1 miles,europe,35.0,no
 13154,married,male,40000.0,0.0,high school,skilled manual,no,2.0,0-1 miles,north america,27.0,yes
 24496,single,female,40000.0,0.0,high school,skilled manual,no,2.0,0-1 miles,north america,28.0,yes
-26944,single,male,56254.0,2.0,high school,manual,yes,0.0,0-1 miles,europe,36.0,yes
+26944,single,male,60000.0,2.0,high school,manual,yes,0.0,0-1 miles,europe,36.0,yes
 22402,married,male,10000.0,0.0,partial college,manual,yes,1.0,2-5 miles,pacific,25.0,yes
 15412,married,male,130000.0,2.0,graduate degree,management,yes,3.0,2-5 miles,north america,69.0,no
 27760,single,female,40000.0,0.0,graduate degree,clerical,no,0.0,0-1 miles,europe,37.0,yes
+12207,single,male,80000.0,4.0,bachelors,management,yes,1.0,5-10 miles,north america,66.0,yes
+11941,single,male,60000.0,0.0,partial college,skilled manual,yes,1.0,5-10 miles,north america,29.0,no
 22046,single,female,80000.0,0.0,bachelors,management,no,1.0,0-1 miles,north america,38.0,yes
 23105,single,male,40000.0,3.0,partial high school,clerical,no,2.0,5-10 miles,pacific,52.0,yes
 25347,single,female,20000.0,3.0,partial high school,clerical,no,2.0,0-1 miles,north america,49.0,no
@@ -452,6 +455,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 15922,married,male,150000.0,2.0,high school,professional,yes,4.0,0-1 miles,europe,48.0,no
 13911,single,female,80000.0,3.0,bachelors,skilled manual,yes,2.0,2-5 miles,north america,41.0,yes
 23712,single,female,70000.0,2.0,bachelors,management,yes,1.0,10+ miles,north america,59.0,no
+18626,single,male,40000.0,2.0,partial college,clerical,yes,1.0,1-2 miles,europe,33.0,yes
 18253,married,female,80000.0,5.0,graduate degree,management,yes,3.0,0-1 miles,pacific,40.0,no
 20839,single,female,30000.0,3.0,graduate degree,clerical,yes,0.0,0-1 miles,europe,47.0,yes
 13136,married,female,30000.0,2.0,partial college,clerical,no,2.0,5-10 miles,pacific,69.0,no
@@ -496,7 +500,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 19364,married,male,40000.0,1.0,bachelors,skilled manual,yes,0.0,0-1 miles,europe,43.0,yes
 21714,single,female,80000.0,5.0,graduate degree,skilled manual,no,0.0,0-1 miles,north america,47.0,no
 24140,single,male,10000.0,0.0,graduate degree,manual,no,0.0,0-1 miles,europe,30.0,yes
-17699,married,male,60000.0,1.0,graduate degree,skilled manual,no,0.0,0-1 miles,north america,44.0,no
+17699,married,male,60000.0,1.0,graduate degree,skilled manual,no,0.0,0-1 miles,north america,43.0,no
 23707,single,male,70000.0,5.0,bachelors,management,yes,3.0,10+ miles,north america,60.0,yes
 14939,married,male,40000.0,0.0,bachelors,clerical,yes,0.0,0-1 miles,europe,39.0,yes
 11292,single,male,150000.0,1.0,partial college,professional,no,3.0,0-1 miles,north america,44.0,yes
@@ -545,6 +549,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 26354,single,male,40000.0,0.0,graduate degree,clerical,no,0.0,0-1 miles,europe,38.0,yes
 20171,married,female,20000.0,2.0,partial college,manual,yes,1.0,0-1 miles,europe,46.0,yes
 19147,married,male,40000.0,0.0,bachelors,professional,no,1.0,0-1 miles,north america,42.0,no
+11538,single,female,60000.0,4.0,graduate degree,skilled manual,no,1.0,0-1 miles,north america,47.0,yes
 28609,married,male,30000.0,2.0,high school,skilled manual,no,2.0,0-1 miles,north america,49.0,no
 18910,single,male,30000.0,0.0,partial college,skilled manual,yes,2.0,5-10 miles,north america,30.0,no
 22127,married,male,60000.0,3.0,graduate degree,management,yes,2.0,1-2 miles,north america,67.0,no
@@ -586,6 +591,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 23672,married,female,60000.0,3.0,graduate degree,management,yes,2.0,1-2 miles,north america,67.0,no
 28192,married,female,70000.0,5.0,graduate degree,professional,yes,3.0,10+ miles,north america,46.0,no
 22974,married,female,30000.0,2.0,partial college,clerical,yes,2.0,5-10 miles,pacific,69.0,no
+11383,married,female,30000.0,3.0,graduate degree,clerical,yes,1.0,0-1 miles,europe,46.0,no
 17964,married,male,40000.0,0.0,graduate degree,clerical,yes,0.0,0-1 miles,europe,37.0,yes
 28066,married,male,80000.0,2.0,graduate degree,professional,yes,0.0,0-1 miles,north america,37.0,yes
 11890,married,female,70000.0,5.0,graduate degree,professional,yes,1.0,0-1 miles,north america,47.0,no
@@ -664,10 +670,12 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 14696,single,male,10000.0,0.0,partial high school,manual,no,2.0,0-1 miles,europe,34.0,no
 19856,married,female,60000.0,4.0,bachelors,management,yes,2.0,2-5 miles,north america,60.0,no
 22730,married,male,70000.0,5.0,bachelors,management,yes,2.0,10+ miles,north america,63.0,no
-23704,single,male,40000.0,5.0,high school,professional,yes,4.0,10+ miles,north america,44.0,yes
+23704,single,male,40000.0,5.0,high school,professional,yes,4.0,10+ miles,north america,43.0,yes
 18858,single,male,60000.0,2.0,partial high school,skilled manual,yes,2.0,5-10 miles,north america,52.0,yes
+13572,single,male,10000.0,3.0,high school,manual,yes,1.0,0-1 miles,europe,37.0,yes
 26597,single,female,60000.0,4.0,bachelors,skilled manual,no,2.0,0-1 miles,north america,42.0,no
 26341,married,female,70000.0,5.0,graduate degree,professional,yes,2.0,0-1 miles,north america,37.0,no
+27218,married,female,20000.0,2.0,partial high school,clerical,no,1.0,0-1 miles,north america,48.0,no
 18494,married,male,110000.0,5.0,bachelors,management,yes,4.0,2-5 miles,pacific,48.0,yes
 25293,married,male,80000.0,4.0,bachelors,management,yes,0.0,1-2 miles,north america,42.0,no
 24322,married,female,60000.0,4.0,bachelors,skilled manual,yes,2.0,0-1 miles,north america,42.0,no
@@ -756,7 +764,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 16675,single,female,160000.0,0.0,graduate degree,management,no,3.0,0-1 miles,pacific,47.0,yes
 11219,married,male,60000.0,2.0,high school,professional,yes,2.0,10+ miles,north america,55.0,no
 19223,married,female,30000.0,2.0,high school,skilled manual,yes,2.0,1-2 miles,north america,48.0,no
-19280,married,male,56254.0,2.0,partial college,manual,yes,1.0,0-1 miles,europe,44.0,yes
+19280,married,male,60000.0,2.0,partial college,manual,yes,1.0,0-1 miles,europe,43.0,yes
 25458,married,male,20000.0,1.0,high school,manual,no,1.0,1-2 miles,europe,40.0,yes
 16217,single,female,60000.0,0.0,graduate degree,skilled manual,yes,0.0,0-1 miles,north america,39.0,no
 17894,married,female,20000.0,1.0,bachelors,clerical,yes,0.0,0-1 miles,europe,50.0,yes
@@ -827,7 +835,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 28102,married,male,20000.0,4.0,high school,skilled manual,yes,2.0,5-10 miles,pacific,58.0,yes
 22050,single,male,90000.0,4.0,bachelors,management,yes,1.0,1-2 miles,north america,38.0,yes
 11139,single,female,30000.0,2.0,partial college,clerical,no,2.0,5-10 miles,pacific,67.0,no
-22918,single,male,80000.0,5.0,graduate degree,management,yes,3.0,0-1 miles,pacific,44.0,no
+22918,single,male,80000.0,5.0,graduate degree,management,yes,3.0,0-1 miles,pacific,43.0,no
 14284,single,male,60000.0,0.0,partial college,professional,no,2.0,1-2 miles,north america,32.0,yes
 12808,married,male,40000.0,0.0,bachelors,clerical,yes,0.0,0-1 miles,europe,38.0,yes
 15030,married,male,20000.0,0.0,bachelors,clerical,yes,0.0,0-1 miles,pacific,26.0,yes
@@ -865,6 +873,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 20310,single,male,60000.0,0.0,partial college,skilled manual,yes,1.0,5-10 miles,north america,27.0,yes
 15450,married,male,10000.0,1.0,graduate degree,clerical,yes,0.0,0-1 miles,europe,70.0,no
 24381,single,male,70000.0,0.0,bachelors,professional,yes,1.0,5-10 miles,pacific,41.0,yes
+16209,single,female,50000.0,0.0,graduate degree,skilled manual,yes,1.0,1-2 miles,europe,36.0,no
 21738,married,male,20000.0,1.0,graduate degree,clerical,yes,0.0,0-1 miles,europe,43.0,no
 12922,single,female,60000.0,3.0,bachelors,skilled manual,yes,0.0,2-5 miles,north america,40.0,yes
 16043,single,male,10000.0,1.0,bachelors,manual,yes,0.0,0-1 miles,europe,48.0,no
@@ -946,7 +955,7 @@ ID,Marital Status,Gender,Income,Children,Education,Occupation,Home Owner,Cars,Co
 27814,single,female,30000.0,3.0,partial college,clerical,no,1.0,0-1 miles,europe,26.0,no
 11738,married,male,60000.0,4.0,bachelors,professional,yes,0.0,2-5 miles,north america,46.0,no
 21770,married,male,60000.0,4.0,bachelors,management,yes,2.0,10+ miles,north america,60.0,no
-14135,married,male,20000.0,1.0,partial college,manual,yes,0.0,1-2 miles,europe,44.0,no
+14135,married,male,20000.0,1.0,partial college,manual,yes,0.0,1-2 miles,europe,43.0,no
 24174,married,male,20000.0,0.0,bachelors,clerical,yes,0.0,0-1 miles,pacific,27.0,yes
 28068,single,female,80000.0,3.0,graduate degree,professional,no,0.0,0-1 miles,north america,36.0,yes
 12273,married,male,30000.0,1.0,bachelors,clerical,yes,0.0,0-1 miles,europe,47.0,no
